@@ -3,5 +3,9 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="TypeOfDatas/TypeOfDatas.vcxproj" Id="7e69ad5d-451a-4efd-a151-7ad9927aa626" />
+  <Project Path="01TypeOfDatas/01TypeOfDatas.vcxproj" Id="3239ed40-3574-446b-be77-bc407874c548" />
+  <Project Path="02LogicOperatorsHomework/02LogicOperatorsHomework.vcxproj" Id="bb9b59b9-6877-4d7c-8fb6-9fd9c128bb77" />
+  <Project Path="03WhileForHomework/03WhileForHomework.vcxproj" Id="16f81122-3ce7-4043-a02b-75f7562a231d" />
+  <Project Path="04IncludeCycles/04IncludeCycles.vcxproj" Id="5369a8ff-9217-4167-a9b1-cfe33be8a9a7" />
+  <Project Path="05Array/05Array.vcxproj" Id="386edbed-0042-4651-a3d6-3d847e6acf28" />
 </Solution>
