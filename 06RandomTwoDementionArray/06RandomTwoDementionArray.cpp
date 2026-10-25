@@ -64,15 +64,8 @@ int main()
     //int count = 0;
     //for (int i = 0; i < rows; i++) {
     //    for (int j = 0; j < cols; j++) {
-    //        if (array[i][j] < 0){
-    //            array[i][j] = array[i][j] * -1;
-    //            if (array[i][j] < 12 and array[i][j] > 0)
+    //        if (array[i][j] < 12 and array[i][j] > -12)
     //                count++;
-    //        }
-    //        else {
-    //            if (array[i][j] < 12 and array[i][j] > 0)
-    //                count++;
-    //        }
     //    }
     //}
     //cout << endl;
