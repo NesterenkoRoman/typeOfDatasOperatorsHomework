@@ -51,18 +51,17 @@ int main()
     //}
 
     // Дано одновимірний масив.Замінити всі від’ємні елементи їх модулями. if (arr[i]< 0) arr[i]= arr[i]*-1;
-    // const int size = 6;
-    // int arr[size]{-22, 28, -46, -57, 28, -123};
-    // int arrNew[size]{};
-    // for (int i = 0; i < size; i++){
-    //     if (arr[i] < 0){
-    //         arr[i] = arr[i] * -1;
-    //         cout << arr[i] << " ";
-    //     }
-    //     else
-    //         cout << arr[i] << " ";
-    // }
-
+     //const int size = 6;
+     //int arr[size]{-22, 28, -46, -57, 28, -123};
+     //int arrNew[size]{};
+     //for (int i = 0; i < size; i++){
+     //    if (arr[i] < 0){
+     //        arr[i] = arr[i] * -1;
+     //        cout << arr[i] << " ";
+     //    }
+     //    else
+     //        cout << arr[i] << " ";
+     //}
 
 
 
