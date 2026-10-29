@@ -9,4 +9,5 @@
   <Project Path="04IncludeCycles/04IncludeCycles.vcxproj" Id="5369a8ff-9217-4167-a9b1-cfe33be8a9a7" />
   <Project Path="05Array/05Array.vcxproj" Id="386edbed-0042-4651-a3d6-3d847e6acf28" />
   <Project Path="06RandomTwoDementionArray/06RandomTwoDementionArray.vcxproj" Id="5d4bcb7c-a512-4955-a207-a474d9a9c4f3" />
+  <Project Path="07Functions/07Functions.vcxproj" Id="26b34b1a-4ead-49ab-9e7c-80d995d68b24" />
 </Solution>
